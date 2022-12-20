@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vegetable Salad</title>
+</head>
+<body bgcolor="pink">
+    <center>
+        <h1 id="titleName">Vegetable Salad</h1>
+    <img src="https://img.freepik.com/free-photo/fresh-salad-with-vegetables-tomatoes-red-onions-lettuce-quail-eggs-healthy-food-diet-concept-vegetarian-food_2829-20246.jpg?w=2000"id="vegetableSaladImage" width="30%">
+    <h2 id="benefits">Benefits of Vegetable</h2>
+    <p id="benefitsParagraph">Aside from their natural good taste and crunchy texture alongside wonderful colours and fragrances,eating a large serving of fresh,raw vegetables each day can have significant health</p>
+    <h2 id="steps">Steps to make Vegetable Salad</h3>
+    <ul id="stepsForVegetableSalad">
+        <li id="stepsForVegetableSalad">Take a large and clear glass bowlns,corn</li>
+        <li id="stepsForVegetableSalad">Try adding blanched ,lightly steamed or roasted veggies like broccoli,frech beans</li>
+        <li id="stepsForVegetableSalad">Add lentils,beans or chickpeas or bean sprouts for more protein</li>
+        <li id="stepsForVegetableSalad">Add marinated veggies like artichoke hearts for tang,or other veggies like raddish and carrot</li>
+        <li id="stepsForVegetableSalad">Swap in your own favourite combination of nuts and seeds</li>
+        <li id="stepsForVegetableSalad">Use fresh coriander or chives instead of parsley </li>
+    </ul>
+    
+    <footer id="footerText">Vegetable Salad</footer>
+</center>
+</body>
+</html>
